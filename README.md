@@ -1,2 +1,0 @@
-# exploring-gutenberg
-Exploring Gutenberg
